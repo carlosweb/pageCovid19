@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Dados Covid 19</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css"
+    integrity="sha384-REHJTs1r2ErKBuJB0fCK99gCYsVjwxHrSU0N7I1zl9vZbggVJXRMsv/sLlOAGb4M" crossorigin="anonymous" />
+  <link rel="stylesheet" href="./public/style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="content">
+      <h1 class="title">
+        <img src="./public/virus.svg" alt="icoronavirus image" class="img-title" />
+        Coronavírus Global Data
+      </h1>
+
+      <div class="select-div">
+        <select id="country">
+          <option value="0">Todos</option>
+        </select>
+      </div>
+
+      <div class="box">
+        <div class="box-1">
+          <i class="far fa-sad-tear fa-3x"></i>
+          <h2>Casos confirmados</h2>
+          <span id="dateWeek" class="date-week"></span>
+          <span id="data-1"></span>
+          <p>Numero de casos ativos do COVID-19.</p>
+        </div>
+        <div class="box-2">
+          <i class="far fa-grin fa-3x"></i>
+          <h2>Pessoas Recuperadas</h2>
+          <span id="dateWeek2" class="date-week"></span>
+          <span id="data-2"></span>
+          <p>Numero de Recuperados do COVID-19.</p>
+        </div>
+        <div class="box-3">
+          <i class="far fa-dizzy fa-3x"></i>
+          <h2>Mortes</h2>
+          <span id="dateWeek3" class="date-week"></span>
+          <span id="data-3"></span>
+          <p>Numero de mortos causados pelo COVID-19.</p>
+        </div>
+      </div>
+
+      <footer>
+        By Carlos Eduardo Developer Web |
+        <a href="https://github.com/carlosweb" target="_blank"><i class="fab fa-github-alt"></i> Github</a>
+      </footer>
+    </div>
+
+    <!-- <div class="box-1">casos confirmados</div>
+        <div class="box-2">Pessoas recuperadas</div>
+        <div class="box-3"> Mortes</div> -->
+
+    <!-- <select name="" id="paises"></select> -->
+  </div>
+</body>
+<script src="./public/app.js"></script>
+
+</html>
