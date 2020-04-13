@@ -1,7 +1,7 @@
 ﻿# Projeto Page Covid19
 
 
-![]([https://github.com/carlosweb/pageCovid19/blob/master/public/mockup-mac.jpg](https://github.com/carlosweb/pageCovid19/blob/master/public/mockup-mac.jpg)
+![](https://github.com/carlosweb/pageCovid19/blob/master/public/mockup-mac.jpg)
 
 ![](http://www.seanhelvey.com/assets/images/seanhelvey/2014/08/html5-css-javascript-logos.png)
 
@@ -11,7 +11,7 @@
 >HTML  
 >SCSS
 >JavaScript  
->Google Fonts - Bebas Neue
+>Google Fonts - Barlow
 >Icons - Fontawesome
 >Responsividade CSS-GRID e FLEX-BOX
 
