@@ -5,17 +5,18 @@
 
 ![](http://www.seanhelvey.com/assets/images/seanhelvey/2014/08/html5-css-javascript-logos.png)
 
-**Demo**  [Page Covid19 ](https://carlosweb.github.io/pageCovid19/)
+## Demo
+[Page Covid19 ](https://carlosweb.github.io/pageCovid19/)
 
-**Tecnologias Utilizadas**  
->HTML  
->SCSS
->JavaScript  
->Google Fonts - Barlow
->Icons - Fontawesome
->Responsividade CSS-GRID e FLEX-BOX
+## Tecnologias Utilizadas
+* HTML 
+* SCSS
+* JavaScript
+* Google Fonts - Barlow
+* Icons - Fontawesome
+* Responsividade CSS-GRID e FLEX-BOX
 
-**Tecnologias Utilizadas**  
+## Descrição
 Página feita para o estudo com o API FETCH consumindo a API [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api).
 
 **Desenvolvedor** Carlos Eduardo 
