@@ -1,0 +1,27 @@
+{
+	"name": "page-covid19",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "parcel build index.html --out-dir public --no-cache",
+		"start": "parcel index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/carlosweb/pageCovid19.git"
+	},
+	"browserslist": [ "last 1 Chrome versions" ],
+	"keywords": [ "covid19", "javascript" ],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/carlosweb/pageCovid19/issues"
+	},
+	"homepage": "https://github.com/carlosweb/pageCovid19#readme",
+	"devDependencies": {
+		"cssnano": "^4.1.10",
+		"parcel-bundler": "^1.12.4",
+		"sass": "^1.26.3"
+	}
+}
